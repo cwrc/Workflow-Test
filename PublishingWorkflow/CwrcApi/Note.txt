@@ -1,0 +1,2 @@
+This project should include clients (usually REST clients) for various services provided by CWRC.
+Currently, there is only one client (Notification client for working with Notification Manager component), but other clients should be added for other services such as clients for adding a new workflow stamp on an object or clients for accessing (even manipulating) permission rights for each object. 
